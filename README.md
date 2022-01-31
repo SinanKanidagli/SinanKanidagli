@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @SinanKanidagli
+- 👀 I’m interested in mobile, api, web, game development and cyber security
+- 🌱 I’m currently learning socket programming and ui desing
+- 📫 How to reach me 
+  - ✏️ [Medium Articles](https://sinankanidagli.medium.com)
+  - 🏢 [LinkedIn](https://www.linkedin.com/in/sinan-kanidağlı-418a12206/)
+  - ✉️ [E-Mail](mailto:sinan_kanidagli@hotmail.com)
